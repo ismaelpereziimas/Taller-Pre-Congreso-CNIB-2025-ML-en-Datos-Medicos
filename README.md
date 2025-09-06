@@ -22,7 +22,7 @@
     <td width="40%" valign="top" style="text-align: center;">
       <!-- Content for Column 2 -->
       <a href="https://www.pcic.unam.mx/">
-        <img src="https://pcic.posgrado.unam.mx/wp-content/uploads/Ciencia-e-Ingenieria-de-la-Computacion_color.png" alt="PCIC" style="width:100%; height:auto;">
+        <img src="https://pcic.posgrado.unam.mx/wp-content/uploads/Ciencia-e-Ingenieria-de-la-Computacion_color.png" alt="PCIC" style="width:95%; height:auto;">
       </a>
     </td>
   </tr>
