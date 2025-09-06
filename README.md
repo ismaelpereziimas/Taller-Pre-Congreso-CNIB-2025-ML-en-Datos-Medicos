@@ -15,6 +15,9 @@
   <tr>
     <td width="60%" valign="top">
       <!-- Content for Column 1 -->
+      <br>
+      <br>
+      <br>
       <a href="https://www.pcic.unam.mx/">Posgrado en Ciencia e Ingeniería de la Computación</a>
     </td>
     <td width="40%" valign="top" style="text-align: center;">
