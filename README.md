@@ -39,7 +39,7 @@
 
 </table>
 
-### Algunas Referencias
+## Referencias:
 
 - Au. **Kononenko I**. (2001). _Machine learning for medical diagnosis: history, state of the art and perspective_. [Enlace](https://doi.org/10.1016/S0933-3657(01)00077-X)
 - Ed. **Dash S, Acharya B R, Mittal M, Abraham A, Kelemen A**. (2020). _Deep Learning Techniques for Biomedical and Health Informatics_. [Enlace](https://link.springer.com/book/10.1007/978-3-030-33966-1)
