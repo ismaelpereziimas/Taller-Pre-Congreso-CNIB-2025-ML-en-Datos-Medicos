@@ -29,7 +29,7 @@
       <!-- Content for Column 1 -->
       <a href="https://www.unimodelo.edu.mx/merida">Universidad Modelo</a>.
     </td>
-    <td width="40%" valign="top" style="text-align: middle;">
+    <td width="40%" valign="top" style="text-align: center;">
       <!-- Content for Column 2 -->
       <a href="https://www.unimodelo.edu.mx/merida">
         <img src="https://servicios.unimodelo.edu.mx/merida/upa/images/appsmodelo.png" alt="Universidad Modelo" style="width:40%; height:auto;">
