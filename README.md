@@ -15,7 +15,7 @@
   <tr>
     <td width="60%" valign="top">
       <!-- Content for Column 1 -->
-      <a href="https://www.pcic.unam.mx/">Posgrado en Ciencia e Ingeniería de la Computación</a>.
+      <a href="https://www.pcic.unam.mx/">Posgrado en Ciencia e Ingeniería de la Computación</a>
     </td>
     <td width="40%" valign="top" style="text-align: center;">
       <!-- Content for Column 2 -->
@@ -27,7 +27,7 @@
   <tr>
     <td width="60%" valign="top">
       <!-- Content for Column 1 -->
-      <a href="https://www.unimodelo.edu.mx/merida">Universidad Modelo</a>.
+      <a href="https://www.unimodelo.edu.mx/merida">Universidad Modelo</a>
     </td>
     <td width="40%" valign="top" style="text-align: center;">
       <!-- Content for Column 2 -->
