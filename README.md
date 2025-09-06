@@ -7,7 +7,7 @@
       <h4><b>ISC. Gabriel Carcedo Rodríguez</b> (<i>PCIC - IIMAS, UNAM</i>): <a href= "mailto:gabrielcarcedo@comunidad.unam.mx">gabrielcarcedo@comunidad.unam.mx</a> 
       <br>
       <br>
-      <b>Ing. Ismael Pérez XXXX</b> (<i>Universidad Modelo</i>): <a href= "mailto:CORREO">CORREO</a>
+      <b>Ing. Ismael Pérez Ruiz</b> (<i>Universidad Modelo</i>): <a href= "mailto:CORREO">CORREO</a>
       <br>
       <br>
       <b>LCC. Victoria May Balam</b> (<i>PCIC - IIMAS, UNAM</i>): <a href= "mailto:CORREO">CORREO</a> </h4>
