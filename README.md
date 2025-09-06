@@ -10,7 +10,7 @@
       <b>Ing. Ismael Pérez Ruiz</b> (<i>Universidad Modelo</i>): <a href= "mailto:CORREO">CORREO</a>
       <br>
       <br>
-      <b>LCC. Victoria May Balam</b> (<i>PCIC - IIMAS, UNAM</i>): <a href= "mailto:CORREO">CORREO</a> </h4>
+      <b>LCC. Victoria May Balam</b> (<i>PCIC - IIMAS, UNAM</i>): <a href= "mailto:victoria.mbalam@comunidad.unam.mx">victoria.mbalam@comunidad.unam.mx</a> </h4>
   </tr>
   <tr>
     <td width="60%" valign="top">
