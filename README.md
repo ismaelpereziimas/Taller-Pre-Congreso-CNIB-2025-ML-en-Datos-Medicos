@@ -4,13 +4,13 @@
 
 <table>
   <tr>
-      <h4>ISC. Gabriel Carcedo Rodríguez (PCIC - IIMAS, UNAM): <a href= "mailto:gabrielcarcedo@comunidad.unam.mx">gabrielcarcedo@comunidad.unam.mx</a> 
+      <h4>ISC. Gabriel Carcedo Rodríguez (<i>PCIC - IIMAS, UNAM</i>): <a href= "mailto:gabrielcarcedo@comunidad.unam.mx">gabrielcarcedo@comunidad.unam.mx</a> 
       <br>
       <br>
-      Ing. Ismael Pérez XXXX (Universidad Modelo): <a href= "mailto:CORREO">CORREO</a>
+      Ing. Ismael Pérez XXXX (<i>Universidad Modelo</i>): <a href= "mailto:CORREO">CORREO</a>
       <br>
       <br>
-      LCC. Victoria May Balam (PCIC - IIMAS, UNAM): <a href= "mailto:CORREO">CORREO</a> </h4>
+      LCC. Victoria May Balam (<i>PCIC - IIMAS, UNAM</i>): <a href= "mailto:CORREO">CORREO</a> </h4>
   </tr>
   <tr>
     <td width="60%" valign="top">
