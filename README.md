@@ -36,7 +36,7 @@
     <td width="40%" valign="top" style="text-align: center;">
       <!-- Content for Column 2 -->
       <a href="https://www.unimodelo.edu.mx/merida">
-        <img src="https://servicios.unimodelo.edu.mx/merida/ing/practicas/resources/imgs/logo-modelo.png" alt="Universidad Modelo" style="width:110%; height:auto;">
+        <img src="https://servicios.unimodelo.edu.mx/merida/ing/practicas/resources/imgs/logo-modelo.png" alt="Universidad Modelo" style="width:120%; height:auto;">
       </a>
     </td>
   </tr>
