@@ -1,7 +1,7 @@
 # Machine Learning para Procesamiento de Datos Médicos
----
+
 ## Taller Pre-Congreso CNIB 2025
----
+
 <table>
   <tr>
       <h4>ISC. Gabriel Carcedo Rodríguez: <a href= "mailto:gabrielcarcedo@comunidad.unam.mx">gabrielcarcedo@comunidad.unam.mx</a> 
