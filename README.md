@@ -20,7 +20,7 @@
     <td width="40%" valign="top" style="text-align: center;">
       <!-- Content for Column 2 -->
       <a href="https://www.pcic.unam.mx/">
-        <img src="https://pcic.posgrado.unam.mx/wp-content/uploads/Ciencia-e-Ingenieria-de-la-Computacion_color.png" alt="PCIC" style="width:80%; height:auto;">
+        <img src="https://pcic.posgrado.unam.mx/wp-content/uploads/Ciencia-e-Ingenieria-de-la-Computacion_color.png" alt="PCIC" style="width:auto; height:auto;">
       </a>
     </td>
   </tr>
@@ -32,7 +32,7 @@
     <td width="40%" valign="top" style="text-align: center;">
       <!-- Content for Column 2 -->
       <a href="https://www.unimodelo.edu.mx/merida">
-        <img src="https://servicios.unimodelo.edu.mx/merida/ing/practicas/resources/imgs/logo-modelo.png" alt="Universidad Modelo" style="width:40%; height:auto;">
+        <img src="https://servicios.unimodelo.edu.mx/merida/ing/practicas/resources/imgs/logo-modelo.png" alt="Universidad Modelo" style="width:auto; height:auto;">
       </a>
     </td>
   </tr>
