@@ -4,7 +4,16 @@
 
 <table>
   <tr>
-      <h4><b>ISC. Gabriel Carcedo Rodríguez</b> (<i>PCIC - IIMAS, UNAM</i>): <a href= "mailto:gabrielcarcedo@comunidad.unam.mx">gabrielcarcedo@comunidad.unam.mx</a> 
+    <td width="95%" valign="top">
+      <!-- Content for Column 1 -->
+      <h4><b>ISC. Gabriel Carcedo Rodríguez</b> (<i>PCIC - IIMAS, UNAM</i>): <a href= "mailto:gabrielcarcedo@comunidad.unam.mx">gabrielcarcedo@comunidad.unam.mx</a>
+    </td>
+    <td width="5%" valign="top" style="text-align: center;">
+      <!-- Content for Column 2 -->
+       <a href="https://www.linkedin.com/in/gabriel-carcedo/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="LinkedIn" width="50" style="vertical-align: middle;">
+    </a>
+    </td> 
       <br>
       <br>
       <b>Ing. Ismael Pérez Ruiz</b> (<i>Universidad Modelo</i>): <a href= "mailto:CORREO">CORREO</a>
