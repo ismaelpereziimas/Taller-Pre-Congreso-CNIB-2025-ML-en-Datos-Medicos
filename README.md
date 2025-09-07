@@ -11,7 +11,7 @@
     <td width="5%" valign="top" style="text-align: center;">
       <!-- Content for Column 2 -->
        <a href="https://www.linkedin.com/in/gabriel-carcedo/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="LinkedIn" style="vertical-align: middle;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="LinkedIn" style="horizontal-align: middle;">
     </a>
     </td> 
       <br>
