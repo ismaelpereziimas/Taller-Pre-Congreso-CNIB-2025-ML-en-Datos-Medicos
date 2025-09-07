@@ -1,4 +1,4 @@
-# Machine Learning para Procesamiento de Datos Médicos
+# **Machine Learning para Procesamiento de Datos Médicos**
 
 ## Taller Pre-Congreso CNIB 2025
 
