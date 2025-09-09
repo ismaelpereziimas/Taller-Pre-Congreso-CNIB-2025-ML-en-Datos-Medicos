@@ -49,3 +49,4 @@
 - Ed. **Dash S, Acharya B R, Mittal M, Abraham A, Kelemen A**. (2020). _Deep Learning Techniques for Biomedical and Health Informatics_. [Enlace](https://link.springer.com/book/10.1007/978-3-030-33966-1)
 - Au. **Garg A, Mago V** (2021). _Role of machine learning in medical research: A survey_. [Enlace](https://doi.org/10.1016/j.cosrev.2021.100370)
 - Ed. **Polat K, Ozturk S**. (2023). _Diagnostic Biomedical Signal and Image Processing Applications with Deep Learning Methods_. [Enlace](https://doi.org/10.1016/C2021-0-02190-8)
+- Ed. **Molnar, C** Interpretable Machine Learning: A Guide for Making Black Box Models Explainable. [Enlace](https://christophm.github.io/interpretable-ml-book)
